@@ -10,7 +10,7 @@ local fileManagers = {
   'Gitui',
   -- 'Ranger',
   -- 'Joshuto',
-  -- 'Lazygit',
+  'Lazygit',
 }
 local executable = vim.fn.executable
 
